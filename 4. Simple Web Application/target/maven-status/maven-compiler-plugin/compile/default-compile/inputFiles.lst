@@ -1,0 +1,6 @@
+/home/sofiana/Documents/11-906-master/4. Simple Web Application/src/main/java/ru/itis/repositories/UsersRepository.java
+/home/sofiana/Documents/11-906-master/4. Simple Web Application/src/main/java/ru/itis/servlets/UserServlet.java
+/home/sofiana/Documents/11-906-master/4. Simple Web Application/src/main/java/ru/itis/models/User.java
+/home/sofiana/Documents/11-906-master/4. Simple Web Application/src/main/java/ru/itis/repositories/UsersRepositoryJdbcImpl.java
+/home/sofiana/Documents/11-906-master/4. Simple Web Application/src/main/java/ru/itis/repositories/CrudRepository.java
+/home/sofiana/Documents/11-906-master/4. Simple Web Application/src/main/java/ru/itis/servlets/ProfileServlet.java
